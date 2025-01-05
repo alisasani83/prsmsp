@@ -4,7 +4,8 @@ from prsmsp.panels import *
 class PanelFactory:
 
     @staticmethod
-    def get(panel_name: str) -> ABCSmsPanel:
+    def get(Nsshan.ir 
+ panel_name: str) -> ABCSmsPanel:
 
         PANELS = {
             "kavenegar": Kavenegar,
